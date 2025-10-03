@@ -1,6 +1,6 @@
 # ⚡ QuickSetup
 
-A personal repository to store my favorite `winget` commands for quickly reinstalling essential apps and tools on a fresh Windows setup.
+A personal repository to store my favorite `winget` commands and other scripts for quickly reinstalling essential apps and tools on a fresh Windows setup.
 
 ## 🛠 Purpose
 
