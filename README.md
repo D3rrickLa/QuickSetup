@@ -9,7 +9,7 @@ This repo acts as a lightweight recovery kit for my development environment. Whe
 ## 📦 What's Included
 
 - `install.ps1`: A PowerShell script containing all my `winget` install commands.
-- A curated list of apps I actually use—no unnecessary extras.
+- A curated list of apps I actually use - no unnecessary extras.
 - `configuration-Office365-x64.xml`: A XML script for essential office products meant to be used with the Office Deployment Tool executable.
 
 ## 🚀 Usage
