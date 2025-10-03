@@ -1,0 +1,13 @@
+winget install --id=AgileBits.1Password -e ;
+winget install --id=Git.Git -e ;
+winget install --id=Mozilla.Firefox.DeveloperEdition -e ;
+winget install --id=Microsoft.VisualStudioCode -e ;
+winget install --id=Neovim.Neovim -e ;
+winget install --id=7zip.7zip -e ;
+winget install --id=Postman.Postman -e ;
+winget install --id=Microsoft.PowerToys -e ;
+winget install --id=VideoLAN.VLC -e ;
+winget install --id=RevoUninstaller.RevoUninstaller -e ;
+winget install --id=Microsoft.PowerShell -e ;
+winget install --id=WinDirStat.WinDirStat -e ;
+winget install --id=WinSCP.WinSCP -e
