@@ -1,6 +1,6 @@
 # ⚡ QuickSetup
 
-A personal repository to store my favorite `winget` commands and other scripts for quickly reinstalling essential apps and tools on a fresh Windows setup.
+A personal repository to store my favorite `winget` commands and `other scripts` for quickly reinstalling essential apps and tools on a fresh Windows setup.
 
 ## 🛠 Purpose
 
@@ -25,7 +25,7 @@ To run the XML office script (setup.exe not included, can be downloaded from Mic
 .\setup.exe /configure .\configuration-Office365-x64.xml
 ```
 
-## Sample Apps
+## Winget Sample Apps
 Below are the apps included in the PowerShell script
 - 1Password
 - Git
